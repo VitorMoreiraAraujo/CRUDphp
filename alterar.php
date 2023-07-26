@@ -1,5 +1,5 @@
 <?php 
-	include_once "../script_formulario/banco.php";
+	include_once "script_formulario/banco.php";
 
 	
 
